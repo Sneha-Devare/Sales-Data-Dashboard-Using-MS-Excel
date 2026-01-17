@@ -1,5 +1,7 @@
 # 📊 **Sales Data Analysis Using MS-Excel**  
 ### **Excel Data Analysis Project**
+---
+
 <img width="1842" height="847" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/51213092-3a99-442d-be73-c07bba7cc065" />
 
 ---
